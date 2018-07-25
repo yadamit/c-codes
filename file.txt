@@ -1,0 +1,2 @@
+Allocated port 60790 for remote forward to localhost:22
+packet_write_wait: Connection to 172.26.83.102 port 22: Broken pipe
